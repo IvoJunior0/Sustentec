@@ -1,0 +1,14 @@
+/* Variáveis CSS globais de cores, fontes, espaçamentos e afins. */
+@import url('https://fonts.googleapis.com/css2?family=Questrial&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+:root {
+    /* Cores */
+    --cor-principal: #8eb094;
+    --cor-fundo: #fef0e1;
+    --cor-texto: #4c4c4c;
+    --cor-complementar: #45864d;
+    /* Fontes */
+    --fonte-principal: "Reddit Sans", sans-serif;
+    /* Espaçamentos */
+    --espa-default: 2.25rem;
+    --espa-simples: 1.5rem;
+}
